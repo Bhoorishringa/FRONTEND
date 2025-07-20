@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # gaushala-website
 >>>>>>> ddc771ba888b88775b146031645944b4934d3ed0
+=======
+# FRONTEND
+>>>>>>> e1bc787c32a254f079426fe28e40cb3476ea2668
