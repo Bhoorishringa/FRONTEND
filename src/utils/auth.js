@@ -1,4 +1,4 @@
-export const BASE_URL = "https://backend-service.onrender.com";
+export const BASE_URL = "https://backend-5og6.onrender.com";
 
 
 
